@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
     labels: ['Día 1', 'Día 2', 'Día 3', 'Día 4'], // Etiquetas de los días
     datasets: [{
       label: 'Km recorridos en Semana 18',
-      data: [7, 7, 6, 42], // Datos de los km recorridos en cada día
+      data: [13, 12, 6, 14], // Datos de los km recorridos en cada día
       borderColor: 'rgba(153, 102, 255, 1)',
       fill: true,
       tension: 0.1
